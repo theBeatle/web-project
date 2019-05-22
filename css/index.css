@@ -1,0 +1,43 @@
+table, tr, td, th {
+    background-color: lightskyblue;
+    border: 1px solid red;
+    border-spacing: 0;
+    border-collapse: collapse;
+    text-align: center !important;
+}
+td{
+    height: 30px;
+    width: 30px;
+    
+}
+td:hover{
+    background: red;
+}
+th{
+    background-color: orange
+}
+
+#id4 {
+    background-color: blueviolet;
+}
+
+.first {
+    font-size: 30px;
+}
+
+.second{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
